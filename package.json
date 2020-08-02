@@ -1,5 +1,5 @@
 {
-  "name": "datesuper",
+  "name": "date-super",
   "version": "1.0.0",
   "description": "Date functions mainly - counting no of days between 2 dates",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vijithbk/nodejs-libraries/tree/master/date-functions"
+    "url": "https://github.com/vijithbk/date-super"
   },
   "keywords": [
     "date",
