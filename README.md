@@ -1,4 +1,4 @@
-# date-fns
+# date-super
 
 **date-super** provides method to find the number of days between 2 dates in a browser and inside nodejs.
 
@@ -9,7 +9,7 @@ var dateSuper = require("date-super");
 var date1 = new Date("01/30/2001");
 var date2 = new Date("02/30/2001");
 
-var days = dateSuper(date1, date2);
+var days = daysBetween(date1, date2);
 console.log(days)
 
 ```
