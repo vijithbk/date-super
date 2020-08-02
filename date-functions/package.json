@@ -1,0 +1,27 @@
+{
+  "name": "datesuper",
+  "version": "1.0.0",
+  "description": "Date functions mainly - counting no of days between 2 dates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vijithbk/nodejs-libraries/tree/master/date-functions"
+  },
+  "keywords": [
+    "date",
+    "datesuper",
+    "datefunctions",
+    "datemethods",
+    "dateextension",
+    "dateoperations",
+    "datediff"
+  ],
+  "author": "Vijith <vijubalak@gmail.com> (http://www.codestack.in)",
+  "license": "ISC",
+  "engines": {
+    "node": ">= 8.0.0"
+  }
+}
